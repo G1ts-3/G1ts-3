@@ -1,9 +1,9 @@
 
 
 <p align="left">
-  <img src="https://github.com/G1ts-3.png" width="200" style="border-radius:50%;">
+  <img src="https://static.wikia.nocookie.net/kono-oto-tomare/images/4/48/Sakai_Michitaka_1.jpg/revision/latest?cb=20181204024628&path-prefix=es" width="200" style="border-radius:50%;">
 </p>
-<h1 align="left">Hai, aku Git 👋</h1>
+<h1 align="left">Hai, aku Raghid (biasa dipanggil Git) 👋</h1>
 <p align="left">
   <b>Junior Developer | Mahasiswa Telkom University, Bandung</b><br>
   Belajar dan mengembangkan diri di dunia pemrograman, terutama di backend dan web development. Saat ini aku menjadi mahasiswa di Telkom University Bandung, S1 Rekayasa Perangkat lunak. Github ini aku jadikan tempat menyimpan tugas-tugas yang pernah aku kerjakan disekolah kejuruan maupun dikuliah.
