@@ -55,7 +55,7 @@
     <img src="https://static.wikia.nocookie.net/logopedia/images/c/cc/Clash_of_Clans_%28App_Icon%29.png/revision/latest?cb=20220625115343" alt="Clash of Clans" width="50" height="50"/>
   </a>
   <a href="https://www.mobilelegends.com/" target="_blank">
-    <img src="https://liquipedia.net/commons/images/c/c5/Mobile_Legends_2025_full_darkmode.svg" alt="Mobile Legends" width="150" height="150"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Mobile-legends-logo.svg/2560px-Mobile-legends-logo.svg.png" alt="Mobile Legends" width="150" height="150"/>
   </a>
   <a href="https://world.honorofkings.com/" target="_blank">
     <img src="https://liquipedia.net/commons/images/thumb/b/b4/Honor_of_Kings_2022_allmode.png/600px-Honor_of_Kings_2022_allmode.png" alt="Honor of King" width="150" height="150"/>
