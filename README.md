@@ -16,6 +16,8 @@
 - 🌍 Asal Jakarta, Tinggal di Bandung  
 - 💻 Tertarik pada pengembangan web dan pemrograman backend
 - 🤖 Tertarik dengan dunia AI dan cara pembuatannya
+- 👨🏻‍💻 Mau Lihat Portfolioku? https://g1ts-3.github.io/MyPortofolio/
+
 
 ---
 
