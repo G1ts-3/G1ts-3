@@ -17,6 +17,7 @@
 - 💻 Tertarik pada pengembangan web dan pemrograman backend
 - 🤖 Tertarik dengan dunia AI dan cara pembuatannya
 - 👨🏻‍💻 Mau Lihat Portfolioku? https://g1ts-3.github.io/MyPortofolio/
+- 👨🏻‍💻 Portfolioku yg menggunakan React https://g1ts-3.github.io/my-portfolio/
 
 
 ---
