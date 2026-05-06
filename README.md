@@ -3,21 +3,19 @@
 <p align="left">
   <img src="https://static.wikia.nocookie.net/kono-oto-tomare/images/4/48/Sakai_Michitaka_1.jpg/revision/latest?cb=20181204024628&path-prefix=es" width="200" style="border-radius:50%;">
 </p>
-<h1 align="left">Hai, aku biasa dipanggil Git 👋</h1>
+<h1 align="left">Well well well 👋</h1>
 <p align="left">
-  <b>Junior Developer | Mahasiswa Telkom University, Bandung</b><br>
+  <b>Junior Developer | Mahasiswa Software Engineer</b><br>
   Belajar dan mengembangkan diri di dunia pemrograman, terutama di backend dan web development. Saat ini aku menjadi mahasiswa di Telkom University Bandung, S1 Rekayasa Perangkat lunak. Github ini aku jadikan tempat menyimpan tugas-tugas yang pernah aku kerjakan disekolah kejuruan maupun dikuliah.
 </p>
 
 ---
 
 ### 🧠 Tentang Aku
-- 🎓 Mahasiswa Telkom University
 - 🌍 Asal Jakarta, Tinggal di Bandung  
 - 💻 Tertarik pada pengembangan web dan pemrograman backend
 - 🤖 Tertarik dengan dunia AI dan cara pembuatannya
-- 👨🏻‍💻 Mau Lihat Portfolioku? https://g1ts-3.github.io/MyPortofolio/
-- 👨🏻‍💻 Portfolioku yg menggunakan React https://g1ts-3.github.io/my-portfolio/
+- 👨🏻‍💻 Mau Lihat Portfolioku? https://gitsportofolio.netlify.app/
 
 
 ---
@@ -27,20 +25,6 @@
 
 ---
 
-### 🎮 Game
-<p align="left">
-  <a href="https://supercell.com/en/games/clashofclans/" target="_blank">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/c/cc/Clash_of_Clans_%28App_Icon%29.png/revision/latest?cb=20220625115343" alt="Clash of Clans" width="50" height="50"/>
-  </a>
-  <a href="https://www.mobilelegends.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Mobile-legends-logo.svg/2560px-Mobile-legends-logo.svg.png" alt="Mobile Legends" width="150" height="150"/>
-  </a>
-  <a href="https://world.honorofkings.com/" target="_blank">
-    <img src="https://liquipedia.net/commons/images/thumb/b/b4/Honor_of_Kings_2022_allmode.png/600px-Honor_of_Kings_2022_allmode.png" alt="Honor of King" width="150" height="150"/>
-  </a>
-</p>
-
----
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=G1ts-3&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
