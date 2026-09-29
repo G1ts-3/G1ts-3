@@ -6,14 +6,6 @@
   Belajar dan mengembangkan diri di dunia pemrograman, terutama di backend dan web development. Saat ini aku menjadi mahasiswa di Telkom University Bandung, S1 Rekayasa Perangkat lunak. Github ini aku jadikan tempat menyimpan tugas-tugas yang pernah aku kerjakan disekolah kejuruan maupun dikuliah.
 </p>
 
----
-
-### 🧠 Tentang Aku
-- 🌍 Asal Jakarta, Tinggal di Bandung  
-- 💻 Tertarik pada pengembangan web dan pemrograman backend
-- 🤖 Tertarik dengan dunia AI dan cara pembuatannya
-- 👨🏻‍💻 Mau Lihat Portfolioku? https://gitsportofolio.netlify.app/
-
 
 ---
 
