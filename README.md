@@ -3,7 +3,7 @@
 <h1 align="left">Well well well</h1>
 <p align="left">
   <b>Junior Developer | Mahasiswa Software Engineer</b><br>
-  Belajar dan mengembangkan diri di dunia pemrograman, terutama di backend dan web development. Saat ini aku menjadi mahasiswa di Telkom University Bandung, S1 Rekayasa Perangkat lunak. Github ini aku jadikan tempat menyimpan tugas-tugas yang pernah aku kerjakan disekolah kejuruan maupun dikuliah.
+ Currently learning and growing in the field of programming, specifically in backend and web development.
 </p>
 
 
